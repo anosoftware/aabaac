@@ -1,1 +1,1 @@
-# aabaac
+# AAbAAc corpus for autoimmunity
